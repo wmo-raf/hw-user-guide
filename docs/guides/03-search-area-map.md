@@ -18,7 +18,7 @@ The search tool on HW offers an easy way to quickly find an area, location or da
 
 ![Search Coords](../guides/images/search/search-coords.png)
 
-- Select the “Decimal degrees” search to search by latitude and longitude. Enter the latitude and longitude information then click “Go to position” and the map will automatically adjust to that location. GFW also provides the latitude and longitude values for all areas on the map based on the crosshair position. This information can be found at the bottom-right corner of the map.
+- Select the “Decimal degrees” search to search by latitude and longitude. Enter the latitude and longitude information then click “Go to position” and the map will automatically adjust to that location. HW also provides the latitude and longitude values for all areas on the map based on the crosshair position. This information can be found at the bottom-right corner of the map.
 
 ![Search Decimal](../guides/images/search/search-decimal-degree.png)
 
