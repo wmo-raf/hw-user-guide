@@ -5,6 +5,7 @@ Hazards Watch Map offers several ways to customize the map view as well as the d
 ## Data layer settings
 - **Learn more about the data you are viewing.** Click the information “i” icon to the right of the data layer find the source, research methodology, time period available and other important details about the data layer. This will activate a pop-up window with more information and links to download
 
+![Layer Info](../_static/images/adjust-layer-settings/layer-info.png)
 
 - **Add and remove data layers.** You can customize which data layers you want to view on the map. To add a data layer to the map, click on a category on the left side of the map and activate the data layer you want to view. Remove data layers in the same way, or by clicking the remove layer “x” icon next to the data layer on the legend. A small circle with a number will indicate how many data layers you have activated in each category.
 
