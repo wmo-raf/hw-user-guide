@@ -4,7 +4,7 @@ One of HW's most important tools for monitoring and communicating an area is the
 
 1. Settings and styles can be accessed by clicking the gear icon at the bottom right corner of the map.
 
-![Access basemaps](../guides/images/customize_basemap/access-basemaps.png)
+![Access basemaps](../_static/images/customize_basemap/access-basemaps.png)
 
 2. There are several customizable basemap settings:
 
@@ -14,7 +14,7 @@ One of HW's most important tools for monitoring and communicating an area is the
 
     - **Show/hide roads:** The show roads feature allows you to show or remove roads on the map when zoomed in. By default, “Hide Roads” is selected when first accessing the map.
 
-![Basemap Settings](../guides/images/customize_basemap/basemap-settings.png)
+![Basemap Settings](../_static/images/customize_basemap/basemap-settings.png)
 
 
 3. There are two customizable basemap styles:
@@ -25,9 +25,9 @@ One of HW's most important tools for monitoring and communicating an area is the
 
     - **Satellite**: This option provides high-resolution satellite imagery sourced from Google. It is helpful for providing contextual information about an area, as it includes geographic names and markers sourced from Google. Because the imagery is a mosaic of satellite images from different time periods, it is not useful for investigating alerts in near real-time but can be valuable for helping to orient yourself or others on the map.
 
-![Default basemap style](../guides/images/customize_basemap/default-style.png)
+![Default basemap style](../_static/images/customize_basemap/default-style.png)
 
-![Dark basemap style](../guides/images/customize_basemap/dark-matter.png)
+![Dark basemap style](../_static/images/customize_basemap/dark-matter.png)
 
-![Dark basemap style](../guides/images/customize_basemap/satellite.png)
+![Dark basemap style](../_static/images/customize_basemap/satellite.png)
 
